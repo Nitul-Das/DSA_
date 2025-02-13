@@ -1,4 +1,5 @@
 let reverseString = function(s){
+
    let i = 0,j = s.length-1;
     while(i<j){
         temp = s[i];
